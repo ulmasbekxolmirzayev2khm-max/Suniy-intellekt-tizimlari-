@@ -1,0 +1,6 @@
+{
+  "name": "Sun'iy intellekt tizimlari",
+  "description": "Dunyoning yetakchi 10 ta sun'iy intellekt tizimlari haqida to'liq, interaktiv va 3 tildagi professional ma'lumotlar platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
